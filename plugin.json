@@ -3,5 +3,5 @@
   "name": "hello-world",
   "version": "0.0.1",
   "type": "plugin",
-  "prio": "100"
+  "prio": 100
 }
